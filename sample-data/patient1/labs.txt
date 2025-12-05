@@ -1,0 +1,104 @@
+LABORRESULTATE - Patient: Max Mustermann (PAT-2024-001)
+==========================================================
+
+AUFNAHME (15.11.2024, 08:45 Uhr)
+---------------------------------
+
+Blutbild:
+- Hämoglobin: 14.2 g/dL (Normal: 13.5-17.5)
+- Leukozyten: 11.8 x10^9/L (Normal: 4.0-10.0) ↑ ERHÖHT
+- Thrombozyten: 245 x10^9/L (Normal: 150-400)
+- Hämatokrit: 42% (Normal: 40-50)
+
+Herzenzyme (STEMI-Panel):
+- Troponin T: 1.85 ng/mL (Normal: <0.014) ↑↑ STARK ERHÖHT
+- CK: 425 U/L (Normal: <190) ↑ ERHÖHT
+- CK-MB: 68 U/L (Normal: <25) ↑ ERHÖHT
+- Myoglobin: 385 ng/mL (Normal: <90) ↑ ERHÖHT
+
+Nierenfunktion:
+- Kreatinin: 1.1 mg/dL (Normal: 0.7-1.3)
+- eGFR: 72 mL/min/1.73m² (Normal: >60)
+- Harnstoff: 38 mg/dL (Normal: 15-45)
+
+Elektrolyte:
+- Natrium: 139 mmol/L (Normal: 136-145)
+- Kalium: 4.2 mmol/L (Normal: 3.5-5.1)
+- Chlorid: 101 mmol/L (Normal: 98-107)
+- Calcium: 2.3 mmol/L (Normal: 2.2-2.6)
+
+Leberwerte:
+- ALT (GPT): 42 U/L (Normal: <50)
+- AST (GOT): 98 U/L (Normal: <50) ↑ ERHÖHT
+- Bilirubin gesamt: 0.9 mg/dL (Normal: 0.3-1.2)
+
+Gerinnungswerte:
+- INR: 1.0 (Normal: 0.9-1.2)
+- PTT: 28 sec (Normal: 25-35)
+
+Lipidprofil:
+- Cholesterin gesamt: 245 mg/dL (Normal: <200) ↑ ERHÖHT
+- LDL-Cholesterin: 168 mg/dL (Normal: <130) ↑ ERHÖHT
+- HDL-Cholesterin: 38 mg/dL (Normal: >40) ↓ ERNIEDRIGT
+- Triglyceride: 195 mg/dL (Normal: <150) ↑ ERHÖHT
+
+Glukosestoffwechsel:
+- Glukose nüchtern: 156 mg/dL (Normal: 70-110) ↑ ERHÖHT
+- HbA1c: 7.2% (Normal: <5.7%) ↑ ERHÖHT
+
+Entzündungsmarker:
+- CRP: 8.5 mg/L (Normal: <5.0) ↑ ERHÖHT
+- BSG: 22 mm/h (Normal: <15) ↑ ERHÖHT
+
+
+KONTROLLE (16.11.2024, 06:00 Uhr)
+----------------------------------
+
+Herzenzyme (24h post-PCI):
+- Troponin T: 2.45 ng/mL (Peak-Wert erwartet) ↑↑
+- CK: 512 U/L ↑
+- CK-MB: 78 U/L ↑
+
+Nierenfunktion:
+- Kreatinin: 1.2 mg/dL (leichter Anstieg, Kontrastmittel-assoziiert)
+- eGFR: 68 mL/min/1.73m²
+
+Elektrolyte:
+- Natrium: 138 mmol/L
+- Kalium: 4.0 mmol/L
+- Magnesium: 0.85 mmol/L (Normal: 0.7-1.0)
+
+
+KONTROLLE (17.11.2024, 06:00 Uhr)
+----------------------------------
+
+Herzenzyme (48h post-PCI):
+- Troponin T: 1.95 ng/mL (rückläufig) ↓
+- CK: 380 U/L (rückläufig) ↓
+
+Nierenfunktion:
+- Kreatinin: 1.0 mg/dL (normalisiert)
+- eGFR: 75 mL/min/1.73m²
+
+Blutbild:
+- Leukozyten: 9.2 x10^9/L (normalisiert)
+
+
+ENTLASSUNG (20.11.2024, 08:00 Uhr)
+-----------------------------------
+
+Herzenzyme:
+- Troponin T: 0.85 ng/mL (weiter rückläufig) ↓
+
+Lipidprofil (unter Therapie):
+- LDL-Cholesterin: 145 mg/dL (Zielwert <70 mg/dL bei Post-MI)
+
+Nierenfunktion:
+- Kreatinin: 0.9 mg/dL
+- eGFR: 78 mL/min/1.73m²
+
+INTERPRETATION:
+===============
+Typisches Laborbild eines akuten Myokardinfarkts mit Peak der Herzenzyme innerhalb von 24h nach Event.
+Erfolgreiche Reperfusion durch PCI. Rückläufige Entzündungswerte und Normalisierung der Nierenfunktion.
+Einstellung auf duale Plättchenhemmung und Statintherapie erfolgreich.

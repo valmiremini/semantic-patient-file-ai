@@ -1,0 +1,129 @@
+KLINISCHER VERLAUF - Max Mustermann (PAT-2024-001)
+===================================================
+
+TAG 1 - 15.11.2024 (Aufnahme)
+------------------------------
+08:30 Uhr - Notaufnahme
+Patient wird vom Rettungsdienst eingeliefert. Anamnese: Seit ca. 3 Stunden retrosternale Brustschmerzen, ausstrahlend in linken Arm. Begleitend Dyspnoe, Diaphorese und Übelkeit. Schmerzbeginn beim Treppensteigen.
+
+Vitalparameter bei Aufnahme:
+- RR: 165/95 mmHg
+- HF: 105/min
+- SpO2: 94% (Raumluft)
+- Temperatur: 36.8°C
+- Atemfrequenz: 22/min
+
+EKG-Befund: ST-Hebungen in V1-V4 (anterior), passend zu STEMI der Vorderwand.
+
+09:00 Uhr - STEMI-Protokoll aktiviert
+Sofortige Verlegung ins Herzkatheterlabor. Patient erhält:
+- Aspirin 300mg loading dose
+- Ticagrelor 180mg loading dose
+- Heparin 5000 IE i.v.
+- Morphin 5mg i.v. zur Schmerztherapie
+
+10:00 Uhr - Koronarangiographie
+Befund: Akuter Verschluss der LAD (Left Anterior Descending) im proximalen Segment. RCA und LCX ohne signifikante Stenosen.
+
+10:45 Uhr - PCI durchgeführt
+Erfolgreiche Stentimplantation in LAD (Drug-Eluting-Stent, 3.0 x 18mm). TIMI-Flow post-interventionell: 3 (vollständige Reperfusion). Keine Komplikationen.
+
+12:00 Uhr - Verlegung auf Intermediate Care (IMC)
+Patient hämodynamisch stabil. Brustschmerzen vollständig regredient.
+Beginn der Sekundärprophylaxe:
+- ACE-Hemmer (Ramipril 2.5mg, Aufdosierung geplant)
+- Betablocker (Metoprolol 25mg 2x täglich)
+- Hochdosis-Statin (Atorvastatin 40mg)
+- Duale Plättchenhemmung (Aspirin + Ticagrelor)
+
+14:00 Uhr - Visite
+Patient kardiopulmonal stabil. Monitoring zeigt normalen Sinusrhythmus. SpO2 98% unter 2L O2/Nasenbrille.
+
+18:00 Uhr - Abendvisite
+Keine Beschwerden. Leichte Aktivierung im Bett toleriert. Patient ist orientiert und kooperativ.
+
+
+TAG 2 - 16.11.2024
+------------------
+06:00 Uhr - Morgenvisite
+Patient beschwerdefrei. Vitalparameter stabil:
+- RR: 135/85 mmHg
+- HF: 72/min
+- SpO2: 98% (2L O2)
+
+Labor zeigt erwarteten Troponin-Peak (2.45 ng/mL). Leichter Kreatinin-Anstieg (1.2 mg/dL), vermutlich Kontrastmittel-assoziiert → Hydratation intensiviert.
+
+09:00 Uhr - Echokardiographie
+Befund:
+- LVEF: 45% (leichtgradig reduziert)
+- Anteriore Hypokinesie (post-MI)
+- Keine relevanten Klappenvitien
+- Kein Perikarderguss
+
+12:00 Uhr - Mobilisation
+Patient darf unter physiotherapeutischer Anleitung aufstehen und einige Schritte gehen. Gut toleriert, keine Angina pectoris.
+
+15:00 Uhr - Anpassung der Medikation
+Ramipril auf 5mg erhöht (gute Verträglichkeit). Metoprolol auf 50mg 2x täglich erhöht zur besseren Herzfrequenzkontrolle.
+
+
+TAG 3 - 17.11.2024
+------------------
+06:00 Uhr - Morgenvisite
+Patient weiterhin beschwerdefrei. Vitalparameter im Zielbereich:
+- RR: 128/78 mmHg
+- HF: 65/min
+- SpO2: 99% (Raumluft)
+
+Labor: Rückläufige Herzenzyme (Troponin 1.95 ng/mL), Kreatinin normalisiert (1.0 mg/dL).
+
+10:00 Uhr - Belastungs-EKG abgesagt
+Aufgrund des frischen Infarkts (Tag 3 post-PCI) wird auf Belastungsuntersuchung verzichtet. Geplante ambulante Kontrolle in 6 Wochen.
+
+14:00 Uhr - Verlegung auf Normalstation
+Patient auf kardiologische Normalstation verlegt. Telemetrie weiterhin.
+
+16:00 Uhr - Diabetesberatung
+Ernährungsberaterin führt Schulung durch. HbA1c 7.2% zeigt suboptimale Einstellung. Metformin-Dosis wird beibehalten. Empfehlung zu regelmäßiger Blutzuckerselbstmessung.
+
+
+TAG 4 - 18.11.2024
+------------------
+08:00 Uhr - Morgenvisite
+Patient mobilisiert sich selbstständig auf dem Flur. Keine Angina pectoris, keine Dyspnoe. Vitalparameter stabil.
+
+10:00 Uhr - Herzinsuffizienz-Schulung
+Pflegepersonal führt Schulung zu Symptomen der Herzinsuffizienz durch. Patient wird informiert über:
+- Tägliche Gewichtskontrolle
+- Flüssigkeitsbilanzierung
+- Warnsymptome (Dyspnoe, Ödeme, Gewichtszunahme)
+
+14:00 Uhr - Sozialdienstvisite
+Planung der weiteren Versorgung. Patient kann nach Hause entlassen werden. Hausarzt und Kardiologe werden informiert.
+
+
+TAG 5 - 19.11.2024
+------------------
+08:00 Uhr - Morgenvisite
+Patient bereit zur Entlassung. Abschlusslabor unauffällig (außer persistierend erhöhtes LDL trotz Statin-Therapie).
+
+10:00 Uhr - Entlassgespräch
+Ausführliche Besprechung mit Patient:
+- Medikamentenplan erklärt und ausgehändigt
+- Wichtigkeit der dualen Plättchenhemmung für mindestens 12 Monate betont
+- Kardiale Rehabilitation empfohlen (Anmeldung erfolgt)
+- Lebensstilmodifikation besprochen (Rauchstopp, mediterrane Diät, regelmäßige Bewegung)
+- Warnsymptome erklärt (sofortige Wiederkehr bei Brustschmerzen!)
+
+Termine:
+- Hausarzt: 1 Woche
+- Kardiologe: 4 Wochen
+- Belastungs-EKG: 6-8 Wochen
+
+14:00 Uhr - Entlassung
+Patient wird in gutem Allgemeinzustand entlassen. Gehfähig, kreislaufstabil. Begleitperson vorhanden.
+
+
+ZUSAMMENFASSUNG VERLAUF:
+========================
+Komplikationsloser Verlauf nach akutem Vorderwandinfarkt mit erfolgreicher primärer PCI. Hämodynamische Stabilität durchgehend erhalten. Linksventrikuläre Funktion leichtgradig eingeschränkt (LVEF 45%). Sekundärprophylaxe vollständig etabliert. Patient gut geschult und motiviert zur Lebensstilmodifikation. Ambulante Weiterbetreuung gesichert.

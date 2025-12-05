@@ -1,0 +1,104 @@
+LABORRESULTATE - Patient: Anna Schmidt (PAT-2024-002)
+=====================================================
+
+AUFNAHME (18.11.2024, 14:45 Uhr)
+---------------------------------
+
+Blutbild:
+- Hämoglobin: 13.1 g/dL (Normal: 12.0-16.0)
+- Leukozyten: 16.2 x10^9/L (Normal: 4.0-10.0) ↑↑ STARK ERHÖHT
+- Neutrophile: 82% (Normal: 40-70%) ↑ ERHÖHT (Linksverschiebung)
+- Lymphozyten: 12% (Normal: 20-40%) ↓ ERNIEDRIGT
+- Thrombozyten: 298 x10^9/L (Normal: 150-400)
+
+Entzündungsmarker:
+- CRP: 185 mg/L (Normal: <5.0) ↑↑↑ MASSIV ERHÖHT
+- PCT (Procalcitonin): 2.8 ng/mL (Normal: <0.5) ↑↑ STARK ERHÖHT (bakterielle Infektion!)
+- BSG: 68 mm/h (Normal: <20) ↑↑ STARK ERHÖHT
+
+Nierenfunktion:
+- Kreatinin: 0.8 mg/dL (Normal: 0.5-1.1)
+- eGFR: >90 mL/min/1.73m²
+- Harnstoff: 28 mg/dL (Normal: 15-45)
+
+Elektrolyte:
+- Natrium: 134 mmol/L (Normal: 136-145) ↓ LEICHT ERNIEDRIGT
+- Kalium: 3.8 mmol/L (Normal: 3.5-5.1)
+- Chlorid: 99 mmol/L (Normal: 98-107)
+
+Leberwerte:
+- ALT (GPT): 28 U/L (Normal: <35)
+- AST (GOT): 32 U/L (Normal: <35)
+- Bilirubin gesamt: 0.7 mg/dL (Normal: 0.3-1.2)
+- GGT: 45 U/L (Normal: <40) ↑ LEICHT ERHÖHT
+
+Blutgasanalyse (Raumluft):
+- pH: 7.42 (Normal: 7.35-7.45)
+- pO2: 68 mmHg (Normal: 80-100) ↓ ERNIEDRIGT (Hypoxämie!)
+- pCO2: 38 mmHg (Normal: 35-45)
+- HCO3: 24 mmol/L (Normal: 22-26)
+- Laktat: 1.8 mmol/L (Normal: 0.5-2.0)
+
+Gerinnungswerte:
+- INR: 1.1 (Normal: 0.9-1.2)
+- PTT: 32 sec (Normal: 25-35)
+- D-Dimere: 0.8 mg/L (Normal: <0.5) ↑ ERHÖHT
+
+Mikrobiologie (Sputum):
+- Gram-Färbung: Gram-positive Diplokokken
+- Kultur (vorläufig): Streptococcus pneumoniae (Pneumokokken)
+- Resistenztestung: ausstehend
+
+
+KONTROLLE (19.11.2024, 06:00 Uhr)
+----------------------------------
+
+Entzündungsmarker (nach 16h Antibiotikatherapie):
+- CRP: 198 mg/L (noch ansteigend, aber erwartet in den ersten 24h)
+- Leukozyten: 15.1 x10^9/L (leicht rückläufig)
+- PCT: 2.4 ng/mL (stabil)
+
+Blutgasanalyse (2L O2):
+- pH: 7.43
+- pO2: 82 mmHg (verbessert unter O2-Gabe) ↑
+- pCO2: 37 mmHg
+- SpO2: 94%
+
+
+KONTROLLE (20.11.2024, 06:00 Uhr)
+----------------------------------
+
+Entzündungsmarker (nach 48h Antibiotikatherapie):
+- CRP: 145 mg/L (rückläufig!) ↓
+- Leukozyten: 12.3 x10^9/L (weiter rückläufig) ↓
+- PCT: 1.2 ng/mL (deutlich rückläufig!) ↓
+
+Blutgasanalyse (2L O2):
+- pO2: 88 mmHg (weiter verbessert)
+- SpO2: 96%
+
+Mikrobiologie (Bronchiallavage):
+- Kultur: Streptococcus pneumoniae bestätigt
+- Resistenztestung: Sensibel auf Penicillin, Ceftriaxon, Levofloxacin
+- Keine atypischen Erreger nachgewiesen
+
+
+KONTROLLE (21.11.2024, 06:00 Uhr)
+----------------------------------
+
+Entzündungsmarker:
+- CRP: 98 mg/L (kontinuierlich rückläufig) ↓
+- Leukozyten: 9.8 x10^9/L (normalisiert)
+
+Blutbild:
+- Neutrophile: 68% (normalisiert)
+- Lymphozyten: 24% (normalisiert)
+
+
+INTERPRETATION:
+===============
+Klassisches Laborbild einer bakteriellen Lobärpneumonie mit Pneumokokken als Erreger.
+Ausgeprägte systemische Entzündungsreaktion (CRP >180 mg/L, PCT >2.0 ng/mL).
+Hypoxämie bei Aufnahme mit respiratorischer Partialinsuffizienz.
+Gutes Ansprechen auf empirische Antibiotikatherapie (Ceftriaxon + Azithromycin).
+Rückläufige Entzündungsparameter ab Tag 2 der Therapie.

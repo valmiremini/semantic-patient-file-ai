@@ -1,0 +1,174 @@
+LABORRESULTATE - Patient: Peter Meier (PAT-2024-003)
+====================================================
+
+PRÄOPERATIV (09.11.2024)
+-------------------------
+
+Blutbild:
+- Hämoglobin: 11.8 g/dL (Normal: 13.5-17.5) ↓ ERNIEDRIGT (mikrozytäre Anämie bei Tumor)
+- MCV: 76 fL (Normal: 80-100) ↓ ERNIEDRIGT
+- Leukozyten: 7.2 x10^9/L (Normal: 4.0-10.0)
+- Thrombozyten: 312 x10^9/L (Normal: 150-400)
+
+Eisenstatus:
+- Eisen: 45 µg/dL (Normal: 60-160) ↓ ERNIEDRIGT
+- Ferritin: 18 ng/mL (Normal: 30-300) ↓ ERNIEDRIGT
+- Transferrinsättigung: 12% (Normal: 20-45%) ↓ ERNIEDRIGT
+→ Eisenmangelanämie bei chronischer Tumorblutung
+
+Gerinnung:
+- INR: 1.0 (Normal: 0.9-1.2)
+- PTT: 31 sec (Normal: 25-35)
+- Fibrinogen: 385 mg/dL (Normal: 200-400)
+
+Nierenfunktion:
+- Kreatinin: 1.5 mg/dL (Normal: 0.7-1.3) ↑ ERHÖHT
+- eGFR: 48 mL/min/1.73m² (Normal: >60) ↓ ERNIEDRIGT (CKD Stadium 3)
+- Harnstoff: 52 mg/dL (Normal: 15-45) ↑ ERHÖHT
+
+Elektrolyte:
+- Natrium: 139 mmol/L (Normal: 136-145)
+- Kalium: 4.5 mmol/L (Normal: 3.5-5.1)
+- Calcium: 2.2 mmol/L (Normal: 2.2-2.6)
+
+Leberwerte:
+- ALT (GPT): 22 U/L (Normal: <50)
+- AST (GOT): 28 U/L (Normal: <50)
+- GGT: 68 U/L (Normal: <60) ↑ LEICHT ERHÖHT
+- Bilirubin gesamt: 0.8 mg/dL (Normal: 0.3-1.2)
+- Albumin: 38 g/L (Normal: 35-50)
+
+Tumormarker:
+- CEA: 12.5 ng/mL (Normal: <5.0) ↑ ERHÖHT (typisch bei Kolonkarzinom)
+- CA 19-9: 28 U/mL (Normal: <37)
+
+Entzündungsmarker:
+- CRP: 8.2 mg/L (Normal: <5.0) ↑ LEICHT ERHÖHT
+
+
+POSTOPERATIV Tag 1 (12.11.2024, 06:00 Uhr)
+-------------------------------------------
+
+Blutbild:
+- Hämoglobin: 10.2 g/dL ↓ (postoperativer Abfall, aber kein Hinweis auf aktive Blutung)
+- Leukozyten: 14.5 x10^9/L ↑ (postoperative Stressreaktion)
+- Thrombozyten: 288 x10^9/L
+
+Nierenfunktion:
+- Kreatinin: 1.8 mg/dL ↑ (prärenale Komponente, Volumenmangel)
+- eGFR: 40 mL/min/1.73m²
+- Harnstoff: 68 mg/dL ↑
+
+Elektrolyte:
+- Natrium: 141 mmol/L
+- Kalium: 3.9 mmol/L
+- Calcium: 2.1 mmol/L
+
+Leberwerte:
+- ALT: 38 U/L (leichter Anstieg, OP-bedingt)
+- AST: 52 U/L ↑
+
+Entzündungsmarker:
+- CRP: 68 mg/L ↑ (postoperativer Anstieg erwartet)
+- PCT: 0.4 ng/mL (Normal: <0.5) - keine Sepsis
+
+Laktat:
+- Laktat: 1.4 mmol/L (Normal: 0.5-2.0)
+
+
+POSTOPERATIV Tag 3 (14.11.2024, 06:00 Uhr)
+-------------------------------------------
+
+Blutbild:
+- Hämoglobin: 9.8 g/dL (stabil)
+- Leukozyten: 11.2 x10^9/L (rückläufig)
+
+Nierenfunktion:
+- Kreatinin: 1.6 mg/dL (gebessert unter Volumengabe)
+- eGFR: 45 mL/min/1.73m²
+
+Entzündungsmarker:
+- CRP: 112 mg/L (Peak am postoperativen Tag 3, dann rückläufig erwartet)
+
+
+POSTOPERATIV Tag 5 (16.11.2024, 06:00 Uhr)
+-------------------------------------------
+
+Blutbild:
+- Hämoglobin: 10.1 g/dL (leicht ansteigend, keine Transfusionsbedürftigkeit)
+- Leukozyten: 8.5 x10^9/L (normalisiert)
+
+Nierenfunktion:
+- Kreatinin: 1.5 mg/dL (wieder auf Ausgangswert)
+- eGFR: 48 mL/min/1.73m²
+
+Entzündungsmarker:
+- CRP: 78 mg/L (rückläufig, regelrechter postoperativer Verlauf)
+
+Leberwerte:
+- ALT: 26 U/L (normalisiert)
+- AST: 32 U/L (normalisiert)
+
+
+POSTOPERATIV Tag 7 (18.11.2024, 06:00 Uhr) - ENTLASSUNG
+--------------------------------------------------------
+
+Blutbild:
+- Hämoglobin: 10.4 g/dL (stabil, akzeptabel für Entlassung)
+- Leukozyten: 7.8 x10^9/L
+- Thrombozyten: 325 x10^9/L
+
+Nierenfunktion:
+- Kreatinin: 1.4 mg/dL (leicht gebessert)
+- eGFR: 50 mL/min/1.73m²
+
+Entzündungsmarker:
+- CRP: 42 mg/L (weiter rückläufig)
+
+Gerinnung:
+- INR: 1.1
+- PTT: 32 sec
+→ Antikoagulation mit Apixaban kann ab morgen wieder aufgenommen werden
+
+
+HISTOPATHOLOGIE (Endbefund 16.11.2024)
+---------------------------------------
+
+Makroskopie:
+- Präparat: Hemikolektomie rechts, 42 cm Länge
+- Tumor: Coecum, 4.5 x 3.8 cm, ulzerierend
+- Lymphknoten: 18 Lymphknoten präpariert
+
+Mikroskopie:
+- Tumortyp: Adenokarzinom, mäßig differenziert (G2)
+- Invasionstiefe: Infiltration der Subserosa (T3)
+- Lymphknotenmetastasen: 3 von 18 Lymphknoten positiv (N1b)
+- Lymphgefäßeinbruch (L): L0 (negativ)
+- Veneninvasion (V): V0 (negativ)
+- Perineurale Invasion (Pn): Pn0 (negativ)
+- Resektionsränder: R0 (tumorfrei, proximaler Rand 12 cm, distaler Rand 18 cm)
+
+Molekularpathologie:
+- Mikrosatelliteninstabilität (MSI): MSS (mikrosatellitenstabil)
+- KRAS-Mutation: Wildtyp
+- NRAS-Mutation: Wildtyp
+- BRAF-Mutation: Wildtyp
+
+TNM-Klassifikation:
+- pT3 pN1b cM0
+
+UICC-Stadium: IIIB
+
+Empfehlung:
+- Adjuvante Chemotherapie indiziert (Stadium IIIB)
+- FOLFOX-Schema (5-FU + Oxaliplatin) für 6 Monate empfohlen
+- Vorstellung im Tumorboard / Onkologie
+
+
+INTERPRETATION:
+===============
+Präoperativ mikrozytäre Anämie bei chronischer Tumorblutung.
+Postoperativer Verlauf komplikationslos mit physiologischem CRP-Anstieg.
+Transienter Kreatinin-Anstieg postoperativ (prärenal), normalisiert unter Volumengabe.
+Histologie: Adenokarzinom pT3 pN1b cM0, Stadium IIIB → adjuvante Chemotherapie indiziert.
+Günstige Prognose durch R0-Resektion, keine Lymph-/Gefäßinvasion, MSS-Wildtyp.

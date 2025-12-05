@@ -1,0 +1,135 @@
+{
+  "patientId": "PAT-2024-003",
+  "demographics": {
+    "name": "Peter Meier",
+    "dateOfBirth": "1952-11-08",
+    "age": 72,
+    "gender": "männlich",
+    "address": "Dorfstrasse 78, 9000 St. Gallen"
+  },
+  "admission": {
+    "admissionDate": "2024-11-10T09:15:00Z",
+    "dischargeDate": "2024-11-18T11:30:00Z",
+    "lengthOfStay": 8,
+    "department": "Chirurgie",
+    "ward": "Station 2C",
+    "admissionReason": "Elektive Hemikolektomie rechts bei Kolonkarzinom"
+  },
+  "diagnoses": [
+    {
+      "code": "C18.0",
+      "description": "Bösartige Neubildung: Coecum (Kolonkarzinom rechts)",
+      "type": "Hauptdiagnose",
+      "diagnosedDate": "2024-10-15"
+    },
+    {
+      "code": "I50.13",
+      "description": "Linksherzinsuffizienz mit Beschwerden bei leichter Belastung",
+      "type": "Nebendiagnose",
+      "diagnosedDate": "2020-04-12"
+    },
+    {
+      "code": "I48.2",
+      "description": "Chronisches Vorhofflimmern",
+      "type": "Nebendiagnose",
+      "diagnosedDate": "2018-09-05"
+    },
+    {
+      "code": "N18.3",
+      "description": "Chronische Nierenkrankheit, Stadium 3",
+      "type": "Nebendiagnose",
+      "diagnosedDate": "2021-06-18"
+    },
+    {
+      "code": "K59.0",
+      "description": "Obstipation",
+      "type": "Nebendiagnose",
+      "diagnosedDate": "2024-09-20"
+    }
+  ],
+  "medications": [
+    {
+      "name": "Apixaban",
+      "dose": "5mg",
+      "frequency": "2x täglich",
+      "route": "oral",
+      "startDate": "2018-09-05",
+      "indication": "Antikoagulation bei Vorhofflimmern",
+      "pausedDuring": "perioperativ pausiert"
+    },
+    {
+      "name": "Bisoprolol",
+      "dose": "5mg",
+      "frequency": "1x täglich morgens",
+      "route": "oral",
+      "startDate": "2020-04-12",
+      "indication": "Herzfrequenzkontrolle bei Vorhofflimmern, Herzinsuffizienz"
+    },
+    {
+      "name": "Enalapril",
+      "dose": "10mg",
+      "frequency": "2x täglich",
+      "route": "oral",
+      "startDate": "2020-04-12",
+      "indication": "ACE-Hemmer bei Herzinsuffizienz"
+    },
+    {
+      "name": "Torasemid",
+      "dose": "10mg",
+      "frequency": "1x täglich morgens",
+      "route": "oral",
+      "startDate": "2020-04-12",
+      "indication": "Diuretikum bei Herzinsuffizienz"
+    },
+    {
+      "name": "Metamizol",
+      "dose": "500mg",
+      "frequency": "bis zu 4x täglich",
+      "route": "oral/intravenös",
+      "startDate": "2024-11-11",
+      "indication": "Postoperative Schmerztherapie"
+    },
+    {
+      "name": "Oxycodon",
+      "dose": "5mg",
+      "frequency": "bei Bedarf (max 4x täglich)",
+      "route": "oral",
+      "startDate": "2024-11-11",
+      "indication": "Reserveanalgetikum"
+    }
+  ],
+  "allergies": [
+    {
+      "substance": "Kontrastmittel (jodhaltig)",
+      "reaction": "Übelkeit, Erbrechen",
+      "severity": "mild"
+    }
+  ],
+  "procedures": [
+    {
+      "name": "Koloskopie mit Biopsie",
+      "date": "2024-10-15T10:00:00Z",
+      "description": "Nachweis Adenokarzinom im Coecum"
+    },
+    {
+      "name": "Staging-CT Abdomen/Thorax",
+      "date": "2024-10-22T14:00:00Z",
+      "description": "cT3 N1 M0 (UICC Stadium IIIB)"
+    },
+    {
+      "name": "Präoperative Anästhesie-Visite",
+      "date": "2024-11-07T11:00:00Z",
+      "description": "ASA-Klassifikation III"
+    },
+    {
+      "name": "Laparoskopische Hemikolektomie rechts",
+      "date": "2024-11-11T08:00:00Z",
+      "description": "Onkologische Resektion mit Lymphadenektomie, Ileotransversostomie"
+    },
+    {
+      "name": "Histopathologie",
+      "date": "2024-11-16T00:00:00Z",
+      "description": "pT3 pN1b (3/18 LK positiv) L0 V0 Pn0, R0 - UICC Stadium IIIB"
+    }
+  ]
+}

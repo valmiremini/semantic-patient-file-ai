@@ -1,0 +1,91 @@
+version: '3.8'
+
+services:
+  qdrant:
+    image: qdrant/qdrant:latest
+    container_name: qdrant
+    ports:
+      - "6333:6333"
+      - "6334:6334"
+    volumes:
+      - ./qdrant/storage:/qdrant/storage
+    environment:
+      - QDRANT__SERVICE__GRPC_PORT=6334
+    networks:
+      - patient-file-network
+
+  ai-service:
+    build:
+      context: ./ai-service
+      dockerfile: Dockerfile
+    container_name: ai-service
+    ports:
+      - "8000:8000"
+    environment:
+      - QDRANT_HOST=qdrant
+      - QDRANT_PORT=6333
+      - OPENAI_API_KEY=${OPENAI_API_KEY:-}
+      - MODEL_TYPE=${MODEL_TYPE:-openai}
+      - EMBEDDING_MODEL=${EMBEDDING_MODEL:-text-embedding-3-small}
+      - LLM_MODEL=${LLM_MODEL:-gpt-4o-mini}
+      - OLLAMA_BASE_URL=${OLLAMA_BASE_URL:-}
+      - OLLAMA_EMBEDDING_MODEL=${OLLAMA_EMBEDDING_MODEL:-}
+      - OLLAMA_LLM_MODEL=${OLLAMA_LLM_MODEL:-}
+    volumes:
+      - ./ai-service:/app
+      - ./sample-data:/app/sample-data
+    depends_on:
+      - qdrant
+    networks:
+      - patient-file-network
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    restart: on-failure
+    command: sh -c "sleep 10 && uvicorn main:app --host 0.0.0.0 --port 8000 --reload"
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: backend
+    ports:
+      - "3001:3001"
+    environment:
+      - NODE_ENV=development
+      - AI_SERVICE_URL=http://ai-service:8000
+      - PORT=3001
+    volumes:
+      - ./backend:/app
+      - /app/node_modules
+    depends_on:
+      - ai-service
+    networks:
+      - patient-file-network
+    command: npm run dev
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: frontend
+    ports:
+      - "3000:3000"
+    environment:
+      - REACT_APP_BACKEND_URL=http://localhost:3001
+      - WATCHPACK_POLLING=true
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+    depends_on:
+      - backend
+    networks:
+      - patient-file-network
+    stdin_open: true
+    tty: true
+
+networks:
+  patient-file-network:
+    driver: bridge
+
+volumes:
+  qdrant_storage:

@@ -1,0 +1,234 @@
+KLINISCHER VERLAUF - Peter Meier (PAT-2024-003)
+===============================================
+
+VORGESCHICHTE
+-------------
+72-jähriger Patient mit bekannter Herzinsuffizienz NYHA II, chronischem Vorhofflimmern unter
+Antikoagulation (Apixaban), chronischer Niereninsuffizienz Stadium 3.
+
+Seit September 2024 rezidivierende Obstipation und okkulte Blutungen im Stuhl.
+Koloskopie am 15.10.2024: Nachweis eines 4 cm großen Tumors im Coecum.
+Histologie: Adenokarzinom, mäßig differenziert (G2).
+
+Staging-CT (22.10.2024): cT3 N1 M0, keine Fernmetastasen.
+Tumorboard-Beschluss: Empfehlung zur primären Operation, danach adjuvante Chemotherapie.
+
+
+TAG 0 - 10.11.2024 (stationäre Aufnahme)
+-----------------------------------------
+09:15 Uhr - Aufnahme auf Chirurgie
+Patient wird zur elektiven Operation am Folgetag aufgenommen.
+
+Anamnese:
+- Keine akuten Beschwerden
+- Leichte Belastungsdyspnoe (bekannte Herzinsuffizienz)
+- Kein Fieber, keine Schmerzen
+- Stuhlgang regelmäßig, aktuell kein Blut sichtbar
+
+Vitalparameter:
+- RR: 135/82 mmHg
+- HF: 75/min (Vorhofflimmern)
+- SpO2: 96% (Raumluft)
+- Temperatur: 36.5°C
+
+Körperliche Untersuchung:
+- Allgemeinzustand: altersentsprechend, gehfähig
+- Abdomen: weich, indolent, keine Resistenzen palpabel
+- Herz: absolute Arrhythmie, Systolikum 2/6 über Aortenareal
+- Lunge: vesikuläres Atemgeräusch beidseits, keine RG
+
+11:00 Uhr - Präoperative Vorbereitung
+- Aufklärungsgespräch über laparoskopische Hemikolektomie rechts
+- Anästhesie-Visite: ASA III (kardiale Komorbidität)
+- EKG: Vorhofflimmern, HF 78/min, keine akuten Ischämiezeichen
+- Echokardiographie: LVEF 45%, keine relevanten Klappenvitien
+- Labor: siehe Laborbefunde (Anämie, eingeschränkte Nierenfunktion bekannt)
+
+Perioperatives Management:
+- Apixaban pausiert (letzte Einnahme gestern Abend)
+- Perioperative Antibiotikaprophylaxe (Cefuroxim + Metronidazol)
+- Thromboseprophylaxe: Heparin 5000 IE s.c.
+
+18:00 Uhr - Abendvisite
+Patient nüchtern ab Mitternacht. Darmvorbereitung mit Macrogol abgeschlossen.
+Keine Beschwerden. Patient ist ruhig und zuversichtlich.
+
+
+TAG 1 - 11.11.2024 (OP-Tag)
+----------------------------
+07:00 Uhr - Präoperative Visite
+Patient nüchtern, keine Beschwerden. Vitalparameter stabil.
+
+08:00 Uhr - Laparoskopische Hemikolektomie rechts
+OP-Team: Chefarzt + 2 Assistenten
+Anästhesie: Intubationsnarkose
+
+OP-Verlauf:
+- Laparoskopischer Zugang über 4 Trokare
+- Mobilisation des rechten Hemikolons
+- Identifikation und Schonung von Duodenum und Pankreas
+- Ligatur der A. ileocolica und A. colica dextra zentral (Lymphadenektomie)
+- Resektion von 42 cm Kolon (terminales Ileum bis rechte Flexur)
+- Ileotransversostomie (End-zu-Seit-Anastomose, Handnaht)
+- Bergung des Präparats über kleine Laparotomie
+- Drainage in den rechten Unterbauch
+- Wundverschluss
+
+OP-Dauer: 3 Stunden 45 Minuten
+Blutverlust: ca. 250 ml (keine Transfusion erforderlich)
+Komplikationen: Keine
+
+12:00 Uhr - Aufwachraum
+Patient extubiert, wach und orientiert. Hämodynamik stabil.
+Schmerztherapie: PCA-Pumpe (Piritramid).
+
+14:00 Uhr - Verlegung auf Intermediate Care
+Patient auf IMC zur postoperativen Überwachung (kardiale Komorbidität).
+Monitoring: EKG, RR, SpO2.
+
+Vitalparameter:
+- RR: 128/75 mmHg
+- HF: 82/min (Vorhofflimmern)
+- SpO2: 95% (2L O2)
+- Urinausscheidung: 80 ml/h (gut)
+
+18:00 Uhr - Abendvisite
+Patient wach, orientiert. Schmerzen VAS 4/10 (unter Schmerztherapie akzeptabel).
+Abdomen leicht gespannt, aber weich. Drainage fördert serös-blutig (50 ml).
+Mobilisation im Bett begonnen.
+
+23:00 Uhr - Nachtvisite
+Patient schläft. Vitalparameter stabil. Drainage 120 ml gesamt (24h). Keine Auffälligkeiten.
+
+
+TAG 2 - 12.11.2024 (Postoperativ Tag 1)
+----------------------------------------
+06:00 Uhr - Morgenvisite
+Patient hatte ruhige Nacht. Schmerzen VAS 3/10.
+Abdomen weich, Peristaltik noch nicht hörbar.
+
+Labor: Hb 10.2 g/dL (postoperativer Abfall tolerabel), Kreatinin 1.8 mg/dL (prärenal,
+Volumenmangel), CRP 68 mg/L (postoperativer Anstieg erwartet).
+
+Therapie:
+- Volumengabe: Vollelektrolytlösung 1500 ml/24h
+- Schmerztherapie: Metamizol 4x1g + Oxycodon bei Bedarf
+- Thromboseprophylaxe: Heparin 5000 IE s.c. 2x täglich
+- Mobilisation: Aufstehen mit Physiotherapie
+
+10:00 Uhr - Mobilisation
+Patient steht mit Hilfe auf, geht einige Schritte. Kreislauf stabil, SpO2 94% (Raumluft).
+
+14:00 Uhr - Visite
+Drainage fördert noch serös-blutig (50 ml seit Morgen). Kostaufbau: Tee und Zwieback.
+
+18:00 Uhr - Abendvisite
+Patient hat 200 ml Tee getrunken, keine Übelkeit. Mobilisation 3x heute durchgeführt.
+
+
+TAG 3 - 13.11.2024 (Postoperativ Tag 2)
+----------------------------------------
+06:00 Uhr - Morgenvisite
+Patient subjektiv gut erholt. Schmerzen VAS 2/10. Peristaltik vereinzelt hörbar.
+Abdomen weich, keine Abwehrspannung.
+
+Drainage: 280 ml gesamt seit OP, Förderung rückläufig (30 ml über Nacht).
+
+Kostaufbau: Schonkost (Suppe, Brot)
+
+12:00 Uhr - Verlegung auf Normalstation
+Patient kreislaufstabil, schmerzarm. Verlegung auf chirurgische Normalstation.
+
+15:00 Uhr - Mobilisation
+Patient geht selbstständig auf dem Flur (50 m). Gut toleriert.
+
+
+TAG 4 - 14.11.2024 (Postoperativ Tag 3)
+----------------------------------------
+06:00 Uhr - Morgenvisite
+Patient hat erste Winde abgegangen - positives Zeichen für Darmmotilität!
+Kein Stuhlgang bisher (erwartet ab Tag 3-5).
+
+Labor: CRP 112 mg/L (Peak am Tag 3, dann rückläufig erwartet), Leukozyten 11.2 (rückläufig).
+
+10:00 Uhr - Drainage gezogen
+Drainage fördert nur noch minimal (< 10 ml/24h) → Entfernung.
+
+Kostaufbau: Vollkost (Patient isst gut, keine Übelkeit)
+
+
+TAG 5 - 15.11.2024 (Postoperativ Tag 4)
+----------------------------------------
+06:00 Uhr - Morgenvisite
+Patient berichtet über erste Stuhlentleerung (breiig, ca. 100 ml). Sehr gutes Zeichen!
+Keine Schmerzen mehr (VAS 1/10). Mobilisation selbstständig.
+
+10:00 Uhr - Entfernung der Hautnähte (Bergungsschnitt)
+Wunden reizlos, keine Infektion. Sterile Pflaster.
+
+
+TAG 6 - 16.11.2024 (Postoperativ Tag 5)
+----------------------------------------
+06:00 Uhr - Morgenvisite
+Patient fühlt sich sehr gut. Stuhlgang regelmäßig (2x täglich, geformt).
+Abdomen weich, reizlos.
+
+Labor: CRP 78 mg/L (rückläufig), Hb 10.1 g/dL (stabil).
+
+10:00 Uhr - Histopathologie Endbefund
+Befund liegt vor: pT3 pN1b cM0, Stadium IIIB (siehe Laborbefunde).
+R0-Resektion (tumorfreie Ränder). Adjuvante Chemotherapie indiziert.
+
+14:00 Uhr - Onkologie-Konsil
+Onkologe sieht Patienten. Empfehlung: FOLFOX-Schema (5-FU + Oxaliplatin) für 6 Monate.
+Therapiebeginn ca. 4 Wochen postoperativ (nach Wundheilung).
+Port-Implantation ambulant geplant.
+
+
+TAG 7 - 17.11.2024 (Postoperativ Tag 6)
+----------------------------------------
+06:00 Uhr - Morgenvisite
+Patient entlassungsbereit. Komplikationsloser postoperativer Verlauf.
+
+10:00 Uhr - Entlassgespräch
+Ausführliche Besprechung:
+- Wundpflege: Wunden reizlos, Fäden selbstauflösend
+- Kostaufbau: Leichte Vollkost, mehrere kleine Mahlzeiten
+- Belastung: Schonung für 6 Wochen, keine schweren Lasten (> 5 kg)
+- Antikoagulation: Apixaban ab morgen wieder einnehmen (5mg 2x täglich)
+- Thromboseprophylaxe: Heparin s.c. für weitere 2 Wochen zu Hause
+
+Termine:
+- Hausarzt: Woche 1 postoperativ (Wundkontrolle)
+- Chirurgie: Woche 2 postoperativ (Nahtmaterialkontrolle)
+- Onkologie: Woche 3 postoperativ (Chemotherapie-Planung)
+
+Arbeitsunfähigkeit: 8 Wochen
+
+
+TAG 8 - 18.11.2024 (Postoperativ Tag 7) - ENTLASSUNG
+-----------------------------------------------------
+11:30 Uhr - Entlassung
+Patient wird in gutem Allgemeinzustand entlassen. Gehfähig, selbstständig.
+Entlassbrief und Medikamentenplan ausgehändigt.
+
+Angehörige holen Patient ab.
+
+
+ZUSAMMENFASSUNG VERLAUF:
+========================
+Komplikationsloser postoperativer Verlauf nach laparoskopischer Hemikolektomie rechts
+bei Kolonkarzinom (pT3 pN1b cM0, Stadium IIIB). R0-Resektion erfolgreich.
+
+Postoperativ transienter Kreatinin-Anstieg (prärenal) unter Volumengabe normalisiert.
+Postoperative Anämie (Hb 10.2 g/dL) stabil, keine Transfusionsbedürftigkeit.
+CRP-Verlauf physiologisch (Peak Tag 3, dann rückläufig).
+
+Darmmotilität ab Tag 3 (Winde), erste Stuhlentleerung Tag 4.
+Drainage am Tag 4 entfernt. Wunden reizlos.
+
+Patient mobilisiert ab Tag 1, selbstständig ab Tag 3.
+
+Adjuvante Chemotherapie (FOLFOX) indiziert, Beginn in 4 Wochen geplant.
+Prognose: Günstig bei R0-Resektion und fehlender Gefäßinvasion.
+5-Jahres-Überlebensrate Stadium IIIB: ca. 60-70% mit adjuvanter Chemotherapie.

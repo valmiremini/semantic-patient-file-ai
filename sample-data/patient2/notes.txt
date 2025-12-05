@@ -1,0 +1,183 @@
+KLINISCHER VERLAUF - Anna Schmidt (PAT-2024-002)
+================================================
+
+TAG 1 - 18.11.2024 (Aufnahme)
+------------------------------
+14:20 Uhr - Notaufnahme
+Patientin stellt sich vor mit seit 4 Tagen bestehendem produktivem Husten (gelb-grünliches Sputum), Fieber bis 39.5°C, zunehmender Dyspnoe und rechtsseitigen thorakalen Schmerzen atemabhängig.
+
+Anamnese:
+- Symptombeginn: vor 4 Tagen mit trockenem Husten und Abgeschlagenheit
+- Seit 2 Tagen: Fieber, produktiver Husten
+- Seit 1 Tag: Zunehmende Atemnot, insbesondere bei Belastung
+- Kein Kontakt zu Erkrankten bekannt
+- Letzte Pneumokokken-Impfung: vor 5 Jahren
+
+Vitalparameter bei Aufnahme:
+- RR: 128/82 mmHg
+- HF: 98/min (Sinustachykardie)
+- Temperatur: 39.2°C (Fieber)
+- SpO2: 91% (Raumluft) - Hypoxämie!
+- Atemfrequenz: 24/min (Tachypnoe)
+
+Körperliche Untersuchung:
+- Inspektion: Patientin in reduziertem Allgemeinzustand, tachypnoeisch
+- Auskultation: Abgeschwächtes Atemgeräusch rechts basal, feinblasige Rasselgeräusche
+- Perkussion: Klopfschalldämpfung rechts basal
+- Palpation: Druckschmerz rechts paravertebral
+
+15:00 Uhr - Thorax-Röntgen
+Befund: Homogene Verschattung im rechten Unterlappen, passend zu Lobärpneumonie.
+Pleuraerguss: gering (Zwerchfellwinkel angedeutet).
+Keine Abszessformation.
+
+15:30 Uhr - Aufnahme auf pneumologische Station
+Diagnose: Ambulant erworbene Pneumonie (CAP), rechter Unterlappen
+CRB-65-Score: 0 Punkte (keine Verwirrtheit, RR normal, Alter <65 Jahre)
+Risikostratifizierung: mittelschwere Pneumonie
+
+Therapieeinleitung:
+- Sauerstoffgabe: 2L/min via Nasenbrille (SpO2-Ziel >92%)
+- Antibiotikatherapie: Ceftriaxon 2g i.v. 1x täglich
+- Zusätzlich: Azithromycin 500mg p.o. 1x täglich (atypische Erregerabdeckung)
+- Antipyrese: Paracetamol 1g p.o. bei Bedarf
+- Inhalation: Fortführung der Asthma-Medikation
+- Physiotherapie: Atemgymnastik
+
+16:30 Uhr - Blutkultur
+2 Paar Blutkulturen aerob/anaerob abgenommen (vor Antibiotikagabe).
+
+18:00 Uhr - Abendvisite
+Patientin unter O2-Gabe SpO2 94%. Temperatur noch 38.6°C. Subjektiv leichte Besserung der Dyspnoe.
+Patient mobilisiert zur Toilette unter Aufsicht, gut toleriert.
+
+23:00 Uhr - Nachtdokumentation
+Patientin schläft ruhig. Kein Sauerstoffabfall. Temperatur 38.1°C.
+
+
+TAG 2 - 19.11.2024
+------------------
+06:00 Uhr - Morgenvisite
+Patientin hatte ruhige Nacht. Husten persistiert, aber weniger schmerzhaft. Fieber rückläufig (38.1°C).
+
+Vitalparameter:
+- RR: 122/78 mmHg
+- HF: 88/min
+- SpO2: 94% (2L O2)
+- Temperatur: 38.1°C
+- Atemfrequenz: 20/min
+
+Auskultation: Weiterhin Rasselgeräusche rechts basal, aber etwas gelockert.
+
+Labor: CRP noch ansteigend (198 mg/L), aber Leukozyten leicht rückläufig. PCT stabil.
+Dies ist in den ersten 24h unter Antibiotikatherapie zu erwarten.
+
+10:30 Uhr - Thorax-CT
+Indikation: Detaillierte Beurteilung des Befundes, Ausschluss Komplikationen (Abszess, Empyem).
+Befund:
+- Konsolidierung im rechten Unterlappen (Segment 9+10)
+- Bronchopneumogramm positiv
+- Geringer Pleuraerguss (ca. 200ml)
+- Keine Abszessformation
+- Keine Lymphadenopathie mediastinal
+→ Bestätigung der Lobärpneumonie
+
+12:00 Uhr - Physiotherapie
+Atemtherapie durchgeführt. Patientin lernt Hustentechniken. Mobilisation auf dem Flur (2x 50m),
+gut toleriert, SpO2 stabil bei 92-94% unter 2L O2.
+
+16:00 Uhr - Visite
+Mikrobiologie meldet: Sputum-Kultur zeigt Streptococcus pneumoniae (Pneumokokken).
+Resistenztestung ausstehend, aber empirische Therapie adäquat.
+
+Blutkultur (vorläufig): nach 24h noch ohne Wachstum.
+
+
+TAG 3 - 20.11.2024
+------------------
+06:00 Uhr - Morgenvisite
+Deutliche klinische Besserung! Patientin fühlt sich "viel besser". Fieber nur noch subfebril (37.6°C).
+Husten weniger produktiv. Atemnot deutlich gebessert.
+
+Vitalparameter:
+- RR: 118/75 mmHg
+- HF: 82/min
+- SpO2: 96% (2L O2)
+- Temperatur: 37.6°C
+- Atemfrequenz: 18/min
+
+Auskultation: Rasselgeräusche deutlich regredient. Atemgeräusch rechts noch leicht abgeschwächt.
+
+Labor: CRP rückläufig (145 mg/L), Leukozyten normalisiert (12.3), PCT deutlich gefallen (1.2 ng/mL).
+→ Exzellentes Ansprechen auf Antibiotikatherapie!
+
+09:00 Uhr - Bronchoskopie mit BAL
+Indikation: Persistierende Infiltration, Erregerdiagnostik.
+Befund:
+- Bronchialbaum frei durchgängig
+- Rechtsseitig im Unterlappen vermehrt Sekret
+- BAL durchgeführt aus rechtem Unterlappen
+- Material zur Mikrobiologie (Kultur, Resistenztestung, atypische Erreger)
+
+Komplikationen: Keine. Patientin toleriert Untersuchung gut.
+
+14:00 Uhr - Umstellung auf orale Antibiotikatherapie
+Da klinisch deutliche Besserung und CRP-Rückgang:
+- Ceftriaxon i.v. wird abgesetzt
+- Umstellung auf Amoxicillin/Clavulansäurepte 625mg p.o. 3x täglich
+- Azithromycin weiter für insgesamt 5 Tage (heute Tag 3)
+
+Sauerstoffbedarf: Reduktionsversuch auf 1L O2 → SpO2 stabil bei 95%. Gut toleriert!
+
+18:00 Uhr - Abendvisite
+Patientin mobilisiert selbstständig. Essen und Trinken ohne Probleme.
+Kein Fieber mehr (36.9°C). SpO2 unter 1L O2: 95-96%.
+
+
+TAG 4 - 21.11.2024 (aktuell)
+-----------------------------
+06:00 Uhr - Morgenvisite
+Patientin beschwerdefrei! Kein Fieber, kaum noch Husten. Keine Dyspnoe in Ruhe oder bei Belastung.
+
+Vitalparameter:
+- RR: 115/72 mmHg
+- HF: 76/min
+- SpO2: 96% (Raumluft!) - Sauerstoff kann abgesetzt werden
+- Temperatur: 36.7°C
+- Atemfrequenz: 16/min
+
+Labor: CRP weiter rückläufig (98 mg/L), Leukozyten normalisiert (9.8 x10^9/L).
+
+Mikrobiologie (BAL):
+- Kultur: Streptococcus pneumoniae bestätigt
+- Resistenztestung: Sensibel auf Penicillin, Ceftriaxon, Amoxicillin, Levofloxacin
+- Keine atypischen Erreger (Mykoplasmen, Legionellen, Chlamydien negativ)
+- Blutkultur: nach 72h ohne Wachstum (negativ)
+
+10:00 Uhr - Entlassgespräch
+Patientin ist entlassungsbereit. Weitere Antibiotikatherapie oral für insgesamt 7 Tage.
+
+Plan:
+- Amoxicillin/Clavulansäure 625mg 3x täglich (noch 4 Tage)
+- Fortführung der Asthma-Medikation
+- Kontroll-Thorax-Röntgen in 4-6 Wochen ambulant (zum Ausschluss Residuen)
+- Pneumokokken-Impfung nach 4 Wochen empfohlen
+- Influenza-Impfung empfohlen
+
+Arbeitsunfähigkeit: 2 Wochen
+
+Termine:
+- Hausarzt: in 1 Woche
+- Pneumologe: in 4 Wochen mit Kontroll-Röntgen
+
+13:00 Uhr - Entlassung geplant
+Entlassbrief wird vorbereitet. Medikamentenplan ausgehändigt.
+
+
+ZUSAMMENFASSUNG VERLAUF:
+========================
+Typischer Verlauf einer bakteriellen Lobärpneumonie mit Pneumokokken als Erreger.
+Mittelschwere CAP mit initialer Hypoxämie (SpO2 91%), die unter O2-Gabe und
+Antibiotikatherapie rasch regredient war. Exzellentes Ansprechen auf Ceftriaxon/Azithromycin.
+Klinische und laborchemische Besserung ab Tag 2. Umstellung auf orale Therapie möglich.
+Keine Komplikationen (kein Empyem, kein Abszess, keine Sepsis). Entlassung geplant.

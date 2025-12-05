@@ -1,0 +1,113 @@
+{
+  "patientId": "PAT-2024-001",
+  "demographics": {
+    "name": "Max Mustermann",
+    "dateOfBirth": "1965-03-15",
+    "age": 59,
+    "gender": "männlich",
+    "address": "Musterstraße 123, 8000 Zürich"
+  },
+  "admission": {
+    "admissionDate": "2024-11-15T08:30:00Z",
+    "dischargeDate": "2024-11-20T14:00:00Z",
+    "lengthOfStay": 5,
+    "department": "Innere Medizin",
+    "ward": "Station 3B",
+    "admissionReason": "Akute Atemnot und Brustschmerzen"
+  },
+  "diagnoses": [
+    {
+      "code": "I21.0",
+      "description": "Akuter transmuraler Myokardinfarkt der Vorderwand",
+      "type": "Hauptdiagnose",
+      "diagnosedDate": "2024-11-15"
+    },
+    {
+      "code": "I10",
+      "description": "Essentielle (primäre) Hypertonie",
+      "type": "Nebendiagnose",
+      "diagnosedDate": "2024-11-15"
+    },
+    {
+      "code": "E11.9",
+      "description": "Diabetes mellitus Typ 2 ohne Komplikationen",
+      "type": "Nebendiagnose",
+      "diagnosedDate": "2020-05-10"
+    },
+    {
+      "code": "E78.0",
+      "description": "Reine Hypercholesterinämie",
+      "type": "Nebendiagnose",
+      "diagnosedDate": "2019-08-20"
+    }
+  ],
+  "medications": [
+    {
+      "name": "Aspirin",
+      "dose": "100mg",
+      "frequency": "1x täglich",
+      "route": "oral",
+      "startDate": "2024-11-15",
+      "indication": "Thrombozytenaggregationshemmung post-MI"
+    },
+    {
+      "name": "Ticagrelor",
+      "dose": "90mg",
+      "frequency": "2x täglich",
+      "route": "oral",
+      "startDate": "2024-11-15",
+      "indication": "Duale Plättchenhemmung"
+    },
+    {
+      "name": "Ramipril",
+      "dose": "5mg",
+      "frequency": "1x täglich morgens",
+      "route": "oral",
+      "startDate": "2024-11-16",
+      "indication": "ACE-Hemmer zur Kardioprotektion"
+    },
+    {
+      "name": "Atorvastatin",
+      "dose": "40mg",
+      "frequency": "1x täglich abends",
+      "route": "oral",
+      "startDate": "2024-11-15",
+      "indication": "Lipidsenkung"
+    },
+    {
+      "name": "Metoprolol",
+      "dose": "50mg",
+      "frequency": "2x täglich",
+      "route": "oral",
+      "startDate": "2024-11-16",
+      "indication": "Betablocker zur Herzfrequenzkontrolle"
+    },
+    {
+      "name": "Metformin",
+      "dose": "1000mg",
+      "frequency": "2x täglich",
+      "route": "oral",
+      "startDate": "2020-05-10",
+      "indication": "Diabetes mellitus Typ 2"
+    }
+  ],
+  "allergies": [
+    {
+      "substance": "Penicillin",
+      "reaction": "Hautausschlag",
+      "severity": "moderat"
+    }
+  ],
+  "procedures": [
+    {
+      "name": "Koronarangiographie",
+      "date": "2024-11-15T10:00:00Z",
+      "description": "Darstellung der Koronararterien mittels Herzkatheter"
+    },
+    {
+      "name": "PCI (Perkutane Koronarintervention)",
+      "date": "2024-11-15T10:45:00Z",
+      "description": "Stentimplantation in LAD (Left Anterior Descending)"
+    }
+  ]
+}

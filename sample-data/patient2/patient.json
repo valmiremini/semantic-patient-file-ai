@@ -1,0 +1,127 @@
+{
+  "patientId": "PAT-2024-002",
+  "demographics": {
+    "name": "Anna Schmidt",
+    "dateOfBirth": "1978-07-22",
+    "age": 46,
+    "gender": "weiblich",
+    "address": "Bahnhofstrasse 45, 3000 Bern"
+  },
+  "admission": {
+    "admissionDate": "2024-11-18T14:20:00Z",
+    "dischargeDate": null,
+    "lengthOfStay": 3,
+    "department": "Pneumologie",
+    "ward": "Station 5A",
+    "admissionReason": "Fieber, produktiver Husten und Dyspnoe seit 4 Tagen"
+  },
+  "diagnoses": [
+    {
+      "code": "J18.1",
+      "description": "Lobärpneumonie, nicht näher bezeichnet",
+      "type": "Hauptdiagnose",
+      "diagnosedDate": "2024-11-18"
+    },
+    {
+      "code": "J45.0",
+      "description": "Vorwiegend allergisches Asthma bronchiale",
+      "type": "Nebendiagnose",
+      "diagnosedDate": "2010-03-15"
+    },
+    {
+      "code": "E66.0",
+      "description": "Adipositas durch übermäßige Kalorienzufuhr",
+      "type": "Nebendiagnose",
+      "diagnosedDate": "2015-06-20"
+    }
+  ],
+  "medications": [
+    {
+      "name": "Ceftriaxon",
+      "dose": "2g",
+      "frequency": "1x täglich",
+      "route": "intravenös",
+      "startDate": "2024-11-18",
+      "indication": "Antibiotische Therapie der Pneumonie"
+    },
+    {
+      "name": "Azithromycin",
+      "dose": "500mg",
+      "frequency": "1x täglich",
+      "route": "oral",
+      "startDate": "2024-11-18",
+      "indication": "Atypische Erregerabdeckung"
+    },
+    {
+      "name": "Paracetamol",
+      "dose": "1g",
+      "frequency": "bis zu 4x täglich",
+      "route": "oral",
+      "startDate": "2024-11-18",
+      "indication": "Fiebersenkung und Analgesie"
+    },
+    {
+      "name": "Salbutamol",
+      "dose": "100µg",
+      "frequency": "bei Bedarf (max. 4x täglich)",
+      "route": "Inhalation",
+      "startDate": "2010-03-15",
+      "indication": "Bronchodilatation bei Asthma"
+    },
+    {
+      "name": "Budesonid/Formoterol",
+      "dose": "160/4.5µg",
+      "frequency": "2x täglich (2 Hubs)",
+      "route": "Inhalation",
+      "startDate": "2015-09-10",
+      "indication": "Asthma-Dauertherapie"
+    }
+  ],
+  "allergies": [],
+  "procedures": [
+    {
+      "name": "Thorax-Röntgen",
+      "date": "2024-11-18T15:00:00Z",
+      "description": "Nachweis einer Infiltration im rechten Unterlappen"
+    },
+    {
+      "name": "Thorax-CT",
+      "date": "2024-11-19T10:30:00Z",
+      "description": "Bestätigung der Lobärpneumonie, Ausschluss Komplikationen"
+    },
+    {
+      "name": "Bronchoskopie",
+      "date": "2024-11-20T09:00:00Z",
+      "description": "BAL (bronchoalveoläre Lavage) zur Erregerdiagnostik"
+    }
+  ],
+  "vitalSigns": [
+    {
+      "timestamp": "2024-11-18T14:30:00Z",
+      "bloodPressure": "128/82",
+      "heartRate": 98,
+      "temperature": 39.2,
+      "respiratoryRate": 24,
+      "oxygenSaturation": 91,
+      "oxygenSupport": "Raumluft"
+    },
+    {
+      "timestamp": "2024-11-19T06:00:00Z",
+      "bloodPressure": "122/78",
+      "heartRate": 88,
+      "temperature": 38.1,
+      "respiratoryRate": 20,
+      "oxygenSaturation": 94,
+      "oxygenSupport": "2L O2 Nasenbrille"
+    },
+    {
+      "timestamp": "2024-11-20T06:00:00Z",
+      "bloodPressure": "118/75",
+      "heartRate": 82,
+      "temperature": 37.6,
+      "respiratoryRate": 18,
+      "oxygenSaturation": 96,
+      "oxygenSupport": "2L O2 Nasenbrille"
+    }
+  ]
+}
