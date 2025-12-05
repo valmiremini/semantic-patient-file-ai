@@ -22,6 +22,9 @@ Ein vollständiger, dockerisierter Prototyp einer KI-gestützten Plattform für 
 
 Diese Plattform demonstriert den Einsatz von KI-Technologien (RAG - Retrieval-Augmented Generation) zur intelligenten Analyse von Patientendossiers im Gesundheitswesen. Der Prototyp ist vollständig dockerisiert und nutzt moderne Web-Technologien.
 
+![Semantic Patient File AI](https://github.com/user-attachments/assets/544436a6-b3ed-4036-8231-3b916bad0834)
+
+
 ### Hauptfunktionen
 
 1. **Semantic Patient File Chat**: Interaktive Chat-Oberfläche zur Befragung von Patientendossiers mit kontextbasierter KI-Antwortgenerierung
